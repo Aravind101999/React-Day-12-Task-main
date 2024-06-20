@@ -1,7 +1,6 @@
 # Redux Shopping Cart Website
 
-![re](https://github.com/Sridhar-K2/React-Day-12-Task/assets/142417968/da6c75d4-0557-4e14-a395-022bda6295ef)
-
+![re](
 
 ## Overview
 
@@ -23,11 +22,8 @@ This project is a shopping cart website built with HTML, CSS, React, and Redux. 
 
 ## Demo
 
-Check out the live demo of the project [here](https://neon-paprenjak-fc5b33.netlify.app/).
+Check out the live demo of the project [here](https://reduxshopingcardaravind.netlify.app).
 
-## Screenshots
-
-Include a few screenshots of your website in this section to give users a visual impression of your project.
 
 ## Getting Started
 
@@ -52,10 +48,6 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push to your fork: `git push origin feature-name`
 5. Create a pull request to the main repository.
 
-## Author
-
-- [SRIDHAR K]()
-- <i class="fa fa-linkdln"></i>[LinkedIn Profile](https://www.linkedin.com/in/sridhar-k-217001284)
 
 # React + Vite
 
