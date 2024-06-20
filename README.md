@@ -1,6 +1,5 @@
 # Redux Shopping Cart Website
 
-![re](
 
 ## Overview
 
